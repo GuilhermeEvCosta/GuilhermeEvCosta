@@ -11,7 +11,7 @@
 
 
 <!--Sobre min-->
-<p align="center">Após cursar Engenaria Civil por 6° semetres, decidi migrar para área que realmente tenho prazer em atuar e tornar do hobbie uma profissão.
+<p align="center">Após cursar Engenaria Civil por 2 anos, decidi migrar para área que realmente tenho prazer em atuar e tornar do hobbie uma profissão.
 
 <p align="center">Gosto de criar coisas e estar em atividades que é necessário pensar em soluções novas.
 Moro em São Paulo capital e trabalho no Banco Santander desde os 19 anos.
