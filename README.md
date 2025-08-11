@@ -4,10 +4,10 @@
 <!--Texto Português-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUILHERME+EVANGELISTA;SOU+ESTUDANTE+DE+CIÊNCIA+DE+DADOS+:%29)](https://github.com/GuilhermeEvCosta)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUILHERME+EVANGELISTA;SOU+CIÊNCIA+DE+DADOS+:%29)](https://github.com/GuilhermeEvCosta)
 
 <!--Texto Inglês-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=25&center=true&vCenter=true&width=1000&lines=HELLO%2CMY+NAME+IS+GUILHERME+EVANGELISTA;I'M+STUDENT+OF+DATA+SCIENCE+:%29)](https://github.com/GuilhermeEvCosta)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=25&center=true&vCenter=true&width=1000&lines=HELLO%2CMY+NAME+IS+GUILHERME+EVANGELISTA;I'M+DATA+SCIENCE+:%29)](https://github.com/GuilhermeEvCosta)
 
 
 <!--Sobre min-->
